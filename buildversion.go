@@ -1,0 +1,3 @@
+package onegw
+const ONEGW_VERSION = "c71f928171182a9f7a284567b4ab4e6852e543ea"
+const ONEGW_BUILD_VERSION = "v1.0.2"

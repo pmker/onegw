@@ -1,0 +1,17 @@
+{
+ "Verbosity": 0,
+ "DataDir": "",
+ "P2PListenPort": 0,
+ "EthereumRPCURL": "",
+ "EthereumNetworkID": 0,
+ "UseBootstrapList": false,
+ "BlockPollingInterval": 0,
+ "EthereumRPCMaxContentLength": 0,
+ "NatsConnectUrl": "",
+ "Action": "",
+ "ActionDB": "",
+ "OneKey": "OnEGw123!!@#!#@!",
+ "Mnemonic": "funny similar bulb recycle silent rocket transfer secret invest helmet web garage boring volcano design like slim base wheel assume can dynamic mobile monitor",
+ "Epath": "m/44'/60'/0'/%d",
+ "Vpath": "m/44'/666666'/1'/%d'"
+}

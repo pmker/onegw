@@ -1,0 +1,23 @@
+Ovedb/
+node_modules/
+TODO.md
+examples/javascript_websocket_client/node_modules
+examples/javascript_websocket_client/lib
+.idea
+mesh
+vendor
+data
+
+# idea files
+.idea/
+
+# Build files
+build/
+.env
+.env*
+docker-compose.yaml
+lab
+config.json
+default.config.json
+init.json
+bgdb
